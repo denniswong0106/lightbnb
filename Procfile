@@ -1,0 +1,1 @@
+web: node ./LightBnB_WebApp-master/server/server.js
